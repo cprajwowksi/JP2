@@ -1,0 +1,29 @@
+{
+  "scripts": {
+    "start": "nodemon src/index.js",
+    "zad1": "nodemon src/zad_01.js",
+    "zad2": "nodemon src/zad_02.js",
+    "zad5": "nodemon src/zad_5.js",
+    "zad7": "nodemon src/zad_7.js",
+    "zad8": "nodemon src/zad_8.js",
+    "zad9": "nodemon src/zad_9.js",
+    "zad10": "nodemon src/zad_10.js",
+    "shipsy": "nodemon src/shipsy.js",
+    "dodatkowe": "nodemon src/dodatkowe.js",
+    "dodatkowe2": "nodemon src/dodatkowe2.js",
+    "nowedodatkowe": "nodemon src/noweDodatkowe.js",
+    "babel": "babel src -d es5out"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.21.0",
+    "@babel/core": "^7.21.4",
+    "@babel/node": "^7.20.7",
+    "@babel/preset-env": "^7.21.4",
+    "eslint": "^8.38.0",
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "init": "^0.1.2",
+    "lodash": "^4.17.21"
+  }
+}
