@@ -1,6 +1,8 @@
 class Tile {
     type = null;
+
     x = null;
+
     y = null;
 
     constructor(x, y, type){

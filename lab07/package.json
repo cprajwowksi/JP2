@@ -12,6 +12,9 @@
     "dodatkowe": "nodemon src/dodatkowe.js",
     "dodatkowe2": "nodemon src/dodatkowe2.js",
     "nowedodatkowe": "nodemon src/noweDodatkowe.js",
+    "elo": "nodemon src/elo.js",
+    "nowyStan": "nodemon src/nowyStan.js",
+    "co": "nodemon src/wow.js",
     "babel": "babel src -d es5out"
   },
   "devDependencies": {
