@@ -1,0 +1,14 @@
+{
+  "name": "lab11",
+  "version": "1.0.0",
+  "main": "projectYarn.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon src/projectYarn.js",
+    "eslint": "eslint '**/*.js'"
+  },
+  "devDependencies": {
+    "eslint": "^8.40.0",
+    "nodemon": "^2.0.22"
+  }
+}
